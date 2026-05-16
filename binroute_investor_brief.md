@@ -1319,6 +1319,698 @@ The single largest assumption open to challenge is the **landlord acquisition ra
 
 ---
 
+## 17. Investor Targeting — Who to Approach, How, and In What Order
+
+### 17.1 Framing — capital strategy before target list
+
+Before naming investors, the strategy must be honest about what capital this business actually needs.
+
+BinRoute can launch on £4,000 of founder funds. The Year 1 cumulative cashflow trough in §9.1 is roughly £2,500. The business does **not** need £250,000 of institutional capital to work; it needs a small bridge to operational profitability and one or two introduction-rich relationships. That fact dictates the entire targeting strategy below.
+
+The recommended capital structure for the first 12 months is therefore:
+
+1. **Stack non-dilutive capital first** — UoM-internal competitions, UnLtd, King's Trust, Shell LiveWIRE, Santander X. A realistic stacked outcome is £20,000–£50,000 of grants and prize money over months 1–9 with zero equity given up. This stack alone reaches the §16.1 Scenario B (£20k angel) capital level without an angel cheque.
+
+2. **Take an angel cheque only if the angel is genuinely additive** — a Manchester or property-sector operator-angel whose introductions are worth more than the cash. Decline anyone who is purely a cheque.
+
+3. **Open institutional conversations (GC Angels, Resonance, NPIF II loans) at month 4–6** — once Manchester has 50+ contracted houses and a press placement, the conversations get easier and the terms get better.
+
+4. **Treat all VCs (Praetura, Mercia, Foresight, Pi Labs, Concrete, Round Hill, Future Planet) as Series A targets for 2027–2028 at earliest** — not current-round targets. Listing them now is for relationship-building, not money.
+
+The investor list below is built to that strategy. Tier 1 entries are funding sources to actively pursue in the first 30 days. Tier 2 entries are 30–90 day or milestone-gated pursuits. Tier 3 entries are background relationships to start now but raise from later.
+
+**Definition of tiers:**
+- **Tier 1** — verifiable fit, realistic probability of success at current stage, founder should spend material time in the next 30 days.
+- **Tier 2** — fit is real but contingent on a near-term milestone (first paying landlord, first month of recurring revenue, completed competition entry) before the application makes sense. Pursue in days 30–90.
+- **Tier 3** — relationship-building only at this stage; cheque/programme not realistic for 12+ months, but useful to track and to begin warm-up conversations with.
+
+---
+
+### 17.2 Tier 1 — Pursue in the first 30 days
+
+---
+**UoM SU Small Grant Fund (Students' Union × Masood Entrepreneurship Centre)**
+- **Type:** Grant
+- **Location:** Manchester (UoM students only)
+- **Stage fit:** Idea / pre-launch
+- **Cheque / prize size:** Up to £2,000
+- **Sector fit:** 5/5 — designed to fund early-stage student venture pilots; sector-agnostic
+- **Dilution:** Non-dilutive
+- **How to approach:** Online application via the SU × MEC partnership portal
+- **Key contact or portal:** manchesterstudentsunion.com/mec
+- **Deadline or cycle:** Rolling — applications close last Friday of every month
+- **BinRoute fit note:** Easiest, fastest non-dilutive cheque available to the founder. £2k pays for first run of operator gilets/PPE, Vistaprint flyers for agent walk-ins, GoCardless setup costs, and 3 months of GoDaddy/hosting. Apply in the current month — there is no reason not to.
+- **Priority tier:** Tier 1
+
+---
+**Manchester Venture Builder (Masood Entrepreneurship Centre, UoM)**
+- **Type:** Programme + grant
+- **Location:** Manchester (UoM only)
+- **Stage fit:** Idea-stage to early-trading
+- **Cheque / prize size:** Up to £5,000 per founder in small grants; programme draws from a wider c. £140k cohort funding pool
+- **Sector fit:** 5/5 — sector-agnostic, built for current UoM students translating ideas into validated ventures
+- **Dilution:** Non-dilutive
+- **How to approach:** Online application + interview; pitch the contracted £780/house ARR and the letting-agent shortlist as proof of customer discovery
+- **Key contact or portal:** entrepreneurship.manchester.ac.uk/manchester-venture-builder
+- **Deadline or cycle:** Most recent cycle: applications opened 22 Dec 2025; 12-week programme started 24 Mar 2026. Next cycle expected late 2026 — verify with MEC directly
+- **BinRoute fit note:** The right infrastructure programme to be inside while the rest of the brief is executed. Mentor access, MVP support, AI/no-code tooling, and the £5k underwrites the Fallowfield customer-discovery sweeps before any paid hire is made. Apply at next cycle window; in the meantime, treat MEC as a relationship to invest in.
+- **Priority tier:** Tier 1
+
+---
+**Manchester Impact Ventures (Masood Entrepreneurship Centre, UoM)**
+- **Type:** Programme + grant (social enterprise focus)
+- **Location:** Manchester (UoM only)
+- **Stage fit:** Pre-revenue social ventures
+- **Cheque / prize size:** Up to £15,000
+- **Sector fit:** 5/5 — directly funds the BinHero (CIC) side of the dual-brand structure
+- **Dilution:** Non-dilutive
+- **How to approach:** Online application via MEC; pitch BinHero as a discrete CIC with measurable fly-tipping diversion outcomes
+- **Key contact or portal:** entrepreneurship.manchester.ac.uk/manchester-impact-ventures
+- **Deadline or cycle:** Listed as applications open in 2026 MEC programme suite; specific cycle dates need direct verification
+- **BinRoute fit note:** Highest-leverage UoM-internal grant for the impact arm. £15k underwrites a 6-month BinHero campaign with quantified outcomes (incidents reported, kg waste diverted, Fallowfield streets covered) that then becomes the social-impact evidence in every Tier 2 application (Resonance, UnLtd Scaling Up, Esmée Fairbairn). Apply on the BinHero CIC, not KerbCrew Ltd.
+- **Priority tier:** Tier 1
+
+---
+**Venture Further Awards (Masood Entrepreneurship Centre, UoM)**
+- **Type:** University start-up competition
+- **Location:** Manchester (UoM-only entrants)
+- **Stage fit:** Idea / pre-revenue / early-revenue
+- **Cheque / prize size:** £200k+ total prize pot; Startup Track up to £35k; Social Impact Track and Freelancing Track separately scored; Research-Led/Deep Tech up to £45k; plus £150k+ in software/tech perks
+- **Sector fit:** 5/5 — dual track positioning available (Startup + Social Impact); founder is exactly the demographic the competition is built for
+- **Dilution:** Non-dilutive
+- **How to approach:** Online application via MEC. Apply to BOTH the Startup Track (commercial KerbCrew) and Social Impact Track (BinHero) for maximum optionality
+- **Key contact or portal:** entrepreneurship.manchester.ac.uk/venture-further
+- **Deadline or cycle:** Annual. 2026 cycle closed 4 May 2026 with Grand Final 16 June 2026. **Next cycle (2026/27) expected to open late 2026** — the founder should be on MEC's mailing list now and apply the day the portal opens
+- **BinRoute fit note:** The single highest-leverage Tier 1 target for autumn 2026. Founder is a current penultimate-year UoM Economics student — directly eligible. Lead with the contracted £780/house ARR, Article 4 fly-tipping evidence, and the September 2026 Manchester launch traction. Reaching finalist (let alone winning a track) generates university-validated credibility that materially de-risks every subsequent angel pitch.
+- **Priority tier:** Tier 1 (apply at the next window the moment it opens)
+
+---
+**Ideas with Impact Awards (UoM Innovation Factory × MEC × Unit M)**
+- **Type:** University competition / grant
+- **Location:** Manchester (UoM students, staff, or alumni within 3 years)
+- **Stage fit:** Early-stage idea to early venture
+- **Cheque / prize size:** Up to £300k total prize pool — individual prizes of up to £100k, £75k, £50k
+- **Sector fit:** 4/5 — explicitly invites solutions to environment, policy, and social-challenge problems; competing against deeper research projects so the bar is high
+- **Dilution:** Non-dilutive
+- **How to approach:** Online application via UoM portal; lean heavily on environmental impact (tonnes of waste diverted from fly-tipping per route per year)
+- **Key contact or portal:** manchester.ac.uk Ideas with Impact Awards page
+- **Deadline or cycle:** 2026 cycle applications close **22 May 2026** — six days from the date of this brief. Apply this week or miss the cycle
+- **BinRoute fit note:** Realistic stretch. The £100k headline would be transformational. Frame as: Article 4 fly-tipping is an environmental, public-health and council-finance problem; BinRoute is a measurable intervention. Apply within the 22 May deadline even if the submission is rough — submission costs nothing and the upside is asymmetric. If missed this cycle, prepare a polished entry for the 2027 round.
+- **Priority tier:** Tier 1 (apply in the next 7 days)
+
+---
+**UnLtd — Awards for Social Entrepreneurs (Starting Up / Funding Futures track)**
+- **Type:** Grant + 12 months of UnLtd support manager + coaching
+- **Location:** UK national
+- **Stage fit:** Pre-launch idea or trading < 1 year (Starting Up); 1–4 years (Scaling Up)
+- **Cheque / prize size:** Starting Up £500–£8,000; Funding Futures track (16–30 year olds) up to £8,000; Scaling Up £8,000–£18,000
+- **Sector fit:** 5/5 — UnLtd awards individual social entrepreneurs personally; founder profile (20-year-old, environmental community campaign) is textbook UnLtd narrative
+- **Dilution:** Non-dilutive
+- **How to approach:** Online eligibility checker → application form on the BinHero CIC entity. Founder under 30 unlocks the Funding Futures pathway
+- **Key contact or portal:** unltd.org.uk/awards
+- **Deadline or cycle:** Next application round opens **1 July 2026** at 10:00; rounds run multiple times a year. First-come, first-served once round opens
+- **BinRoute fit note:** Must-apply for the BinHero CIC arm. Combine narrative-wise with Manchester Impact Ventures — same story, two non-dilutive cheques. Lead with the fly-tipping incident reduction in Article 4 areas and the "BinHero campaign turns students into civic actors" framing. Apply within the first 48 hours of the round opening.
+- **Priority tier:** Tier 1
+
+---
+**King's Trust Enterprise Programme (formerly Prince's Trust)**
+- **Type:** Grant + Start-Up Loan + 2-year mentor
+- **Location:** UK national
+- **Stage fit:** Pre-trading or trading < 12 months
+- **Cheque / prize size:** Up to £5,000 non-repayable grant + Start-Up Loan £500–£25,000 (5.6% APR fixed) + 2 years of post-launch mentor support
+- **Sector fit:** 5/5 — eligibility is 18–30, UK-based, ≥ 50% ownership. Founder fits exactly
+- **Dilution:** Non-dilutive (grant) + debt (loan)
+- **How to approach:** Online application → workshops → 1:1 business plan review
+- **Key contact or portal:** kingstrust.org.uk/how-we-can-help/support-starting-business/how-to-apply
+- **Deadline or cycle:** Rolling. Must apply **before** trading hits 12 months
+- **BinRoute fit note:** Combining the £5k grant with the maximum £25k Start-Up Loan delivers £30k of fully non-equity capital — matching the §16.1 Scenario B £20k angel cheque outcome with zero dilution and a longer support tail. The mentor allocation alone is worth the application. Apply within first 30 days of incorporation. The Start-Up Loan element requires a personal guarantee — verify acceptable for a 20-year-old founder with no asset base.
+- **Priority tier:** Tier 1
+
+---
+**Shell LiveWIRE — Smarter Future Programme**
+- **Type:** Monthly competition / prize
+- **Location:** UK national
+- **Stage fit:** Pre-trading or first 12 months of trading; founder aged 16–30
+- **Cheque / prize size:** £5,000 monthly Smarter Future Award; annual £25,000 Young Entrepreneur of the Year award (winners auto-considered)
+- **Sector fit:** 5/5 — programme criterion is verbatim "makes urban environments cleaner and more sustainable places to work and live"
+- **Dilution:** Non-dilutive
+- **How to approach:** Online entry; short video by end of second week of each month; final entries by 23:59 last day
+- **Key contact or portal:** shell-livewire.org/award/121/the-smarter-future-programme
+- **Deadline or cycle:** Monthly rolling — **verify the UK programme is still running monthly cycles in 2026** (recent activity has skewed Scotland/Aberdeenshire-focused; the founder should check the portal before investing time)
+- **BinRoute fit note:** Near-perfect alignment on age, stage and theme. Even a finalist placement generates a credibility signal usable in every subsequent application. Submit within the first 30 days; resubmit every month until shortlisted. The £5k is small but the £25k annual is real.
+- **Priority tier:** Tier 1 (verify programme status first, then submit immediately)
+
+---
+**Santander X UK Awards (University category)**
+- **Type:** Competition / grant
+- **Location:** UK national
+- **Stage fit:** Pre-revenue to MVP / preparing-to-go-to-market
+- **Cheque / prize size:** £150,000 total pool across 9 finalists; £50k / £30k / £20k per placement in 3 categories; finalists progress into the Santander X Global Awards
+- **Sector fit:** 4/5 — University category requires team to be student/graduate of last 5 years AND have an MVP/be preparing to go to market; KerbCrew fits exactly
+- **Dilution:** Non-dilutive
+- **How to approach:** Online application via Santander X UK portal
+- **Key contact or portal:** santanderx.com/en/sites/santander-x-uk-awards.html
+- **Deadline or cycle:** 2026 cycle applications close **27 May 2026** — 11 days from the date of this brief. UoM is a participating Santander Universities partner
+- **BinRoute fit note:** The current 2026 deadline is reachable but tight. If the founder cannot ship a clean entry by 27 May, prepare instead for the 2027 cycle — the difference between a rushed and a polished submission is the difference between making and missing the £150k pool. Lead with the £780/house contracted ARR and the September 2026 Manchester launch.
+- **Priority tier:** Tier 1 (apply this cycle if a polished submission is achievable; otherwise prepare for 2027)
+
+---
+**GC Angels (Greater Manchester, part of The Growth Company)**
+- **Type:** Angel network + co-investment fund (publicly backed)
+- **Location:** Greater Manchester / North West
+- **Stage fit:** Pre-seed and seed; pre-revenue tolerated with credible commercialisation path within 12 months
+- **Cheque / prize size:** £50k–£150k initial ticket; £150k–£250k follow-on; supports total rounds £250k–£2m
+- **Sector fit:** 4/5 — Manchester-anchored, social-enterprise parent, has backed student-housing tech (Housemates, £100k pre-seed). Service businesses with strong unit economics accepted; the digital/technology leaning is satisfied by route-optimisation software and the landlord compliance dashboard
+- **Dilution:** Equity (typically EIS/SEIS eligible)
+- **How to approach:** Online deal submission. GC Angels typically co-invests rather than leads — the operational sequence is: secure one £20–50k lead angel first via UKBAA Manchester Hub or UoM alumni, then bring GC Angels to complete the round
+- **Key contact or portal:** gcangels.uk — GCangels@growthco.uk
+- **Deadline or cycle:** Rolling; the Venture Forward accelerator runs in cohorts (Cohort 2 ran Feb–Apr 2026; next cohort expected autumn 2026)
+- **BinRoute fit note:** Single best institutional angel match for the £50–250k seed scenario. Geography, stage, ticket size and mandate align. Pitch with the route-optimisation + compliance-dashboard tech roadmap explicit, so the "digital/technology" filter is satisfied. Approach in month 4–6 once Manchester has 50+ houses signed and a lead angel committed.
+- **Priority tier:** Tier 1 (if pursuing the £50–250k seed scenario; defer to Tier 2 if bootstrapping)
+
+---
+**Resonance — Enterprise Investment Fund (REI)**
+- **Type:** Impact investment fund (blended equity / quasi-equity / debt)
+- **Location:** South West, West Midlands, **North West** (Manchester in catchment)
+- **Stage fit:** Scaling social enterprises with traction evidence
+- **Cheque / prize size:** £25,000–£250,000 per investee
+- **Sector fit:** 5/5 — explicit themes are socio-economic inequality, health and wellbeing, AND transition to a lower-carbon economy; North West named as a region focus
+- **Dilution:** Mix of equity / quasi-equity / loan (negotiated)
+- **How to approach:** Submit Expression of Interest via Resonance website; pitch as the BinHero CIC arm with KerbCrew Ltd as the commercial trading vehicle
+- **Key contact or portal:** resonance.ltd.uk/get-investment/enterprise-growth-funds
+- **Deadline or cycle:** Rolling
+- **BinRoute fit note:** Among the cleanest fits in this entire section — region, sector lens, cheque size, dual commercial/social structure all align. Approach once BinHero CIC has 3 months of campaign data and KerbCrew has 50+ houses signed. Lead with quantified waste-diversion (tonnes), Article 4 fly-tip incident reduction, and the dual-brand governance structure.
+- **Priority tier:** Tier 1
+
+---
+**Green Angel Syndicate**
+- **Type:** Angel syndicate (climate-impact specialist)
+- **Location:** UK national; 300+ members; UKBAA Angel Group of the Year 2025
+- **Stage fit:** Pre-seed to Series A
+- **Cheque / prize size:** Syndicate rounds with typical mid-sized angel cheque profile; 7–10 new investments per year
+- **Sector fit:** 5/5 — explicit waste and recycling, built environment, sustainability mandates; British Business Bank co-investment de-risks deals
+- **Dilution:** Equity (SEIS/EIS expected)
+- **How to approach:** Online application to deal pipeline
+- **Key contact or portal:** greenangelsyndicate.com
+- **Deadline or cycle:** Rolling
+- **BinRoute fit note:** The single most thesis-aligned UK angel syndicate. Their "waste and recycling" mandate is verbatim BinRoute's sector. Lead with measurable fly-tip reduction, CO₂ saved per route (avoided lorry runs from end-of-tenancy clearances), circular-economy framing (contamination-sort recovers recyclate that would otherwise be incinerated), and the national TAM (§6.4) showing this is a 10-city play. Approach in month 6–9 once Manchester has 100+ houses and at least one press placement.
+- **Priority tier:** Tier 1
+
+---
+**UKBAA Manchester Angel Hub (powered by Bruntwood SciTech at No.1 Circle Square)**
+- **Type:** Trade body / Syndicate gateway / pitch event series
+- **Location:** Manchester
+- **Stage fit:** All early-stage
+- **Cheque / prize size:** Varies — UKBAA does not invest directly; gateway to ~170 member syndicates with individual cheques £10k–£75k and syndicate rounds £25k–£500k
+- **Sector fit:** 4/5 — the Manchester Hub is purpose-built to connect local angels (many of whom understand HMO/student property and Manchester property markets) to local founders
+- **Dilution:** Equity (terms set per angel)
+- **How to approach:** Attend pitch nights at No.1 Circle Square; target property-aware angels present in the room rather than treating UKBAA as a single fund
+- **Key contact or portal:** ukbaa.org.uk/membership/angel-hubs/manchester
+- **Deadline or cycle:** Rolling events
+- **BinRoute fit note:** The highest-leverage *physical* venue for warm-intro angel relationship building. Two consecutive pitch nights generates enough hand-shakes to identify the 2–3 angels who actually understand HMO landlord economics. Start attending in month 1; bring the one-page landlord flyer (§10.5) not a deck.
+- **Priority tier:** Tier 1
+
+---
+**Manchester Student Homes (channel partner, NOT investor — explicit clarification)**
+- **Type:** Joint UoM / MMU / Salford / RNCM accreditation scheme — **not** an investment vehicle
+- **Location:** Manchester
+- **Stage fit:** N/A
+- **Cheque / prize size:** N/A
+- **Sector fit:** 5/5 as commercial channel; 0/5 as investor
+- **Dilution:** N/A
+- **How to approach:** Direct outreach for accreditation listing + co-marketing: accredited landlords get a KerbCrew discount in exchange for MSH listing and distribution to the landlord database
+- **Key contact or portal:** manchesterstudenthomes.com — listed as the publisher of the February 2025 "Fly-tipping is rubbish" notice referenced in §3.2
+- **Deadline or cycle:** Rolling
+- **BinRoute fit note:** Included in this section to forestall a common confusion: MSH does **not** invest in or sponsor service providers. They are the most strategic channel partner in the entire Manchester ecosystem because their A+ tier accredited landlords are BinRoute's exact ICP and they have already publicly written about the fly-tipping problem. Pitch them on a "Trusted Service Partner" listing and co-marketing. This relationship is Tier 1 not because they fund BinRoute but because their endorsement is the single most credible signal in the Manchester landlord market.
+- **Priority tier:** Tier 1 (as channel partner)
+
+---
+**William Reeve (CEO, Goodlord; serial UK proptech / consumer angel)**
+- **Type:** Operator-angel
+- **Location:** London (proptech-active across UK)
+- **Stage fit:** Pre-seed / seed
+- **Cheque / prize size:** Not publicly disclosed; historical investments include Zoopla, Tide, Adzuna, Onfido, Plum Guide, Sofar Sounds, Thread, Smart Pension
+- **Sector fit:** 5/5 — current Goodlord CEO; understands letting-agent and landlord workflows more intimately than almost any other UK angel. KerbCrew is plug-compatible with Goodlord's installed base
+- **Dilution:** Equity
+- **How to approach:** **Warm intro essential** — do NOT cold email without traction evidence. Approach via Goodlord / Augmentum Fintech (he is Non-Exec Chair) / former Zoopla and Lovefilm network. LinkedIn search: "Goodlord" connections + 2nd degree
+- **Key contact or portal:** wreeve.com; uk.linkedin.com/in/williamreeve
+- **Deadline or cycle:** Rolling; highly selective
+- **BinRoute fit note:** The single highest-value named angel target on this list. Pitch the eventual product as either (a) a Goodlord partner-integration that adds bin-compliance to Goodlord's landlord workflow, or (b) a landlord-stickiness driver that letting agents could bolt onto management contracts. The platform-partnership angle in §13.4 is exactly his language. **Do not approach until BinRoute has 50+ houses signed and at least one MSH agent partnership** — the cost of a "no, too early" from Reeve is high because the relationship gets locked for 12+ months.
+- **Priority tier:** Tier 1 (subject to traction; pursue via warm intro from month 6 onwards)
+
+---
+
+### 17.3 Tier 2 — Pursue in days 30–90, or once traction unlocks
+
+---
+**Northern Powerhouse Investment Fund II (NPIF II) — Smaller Loans (GC Business Finance, FW Capital)**
+- **Type:** Debt finance (publicly backed)
+- **Location:** North West
+- **Stage fit:** Trading SME with revenue visibility
+- **Cheque / prize size:** £25,000–£100,000 (smaller loans tier via GC Business Finance / Maven); £100,000–£2m (larger loans tier via FW Capital)
+- **Sector fit:** 5/5 — explicitly sector-agnostic; has funded real-estate agents, hospitality, and service operators. £780/house ARR is exactly the cashflow profile NPIF underwriters look for
+- **Dilution:** Non-dilutive (debt)
+- **How to approach:** Apply once 5–10 paying landlords are on contract (recurring DD income provides debt-service coverage)
+- **Key contact or portal:** businessfinance.growthco.uk; fwcapital.co.uk; british-business-bank.co.uk NPIF II portal
+- **Deadline or cycle:** Rolling
+- **BinRoute fit note:** Once the §16.1 Scenario B £20k of working capital is needed AND there are 10+ contracts in place, this is cleaner than equity. The founder's age (~20) and absent personal balance sheet may require a co-signer or director guarantee — verify in the application call. Apply in month 4–6.
+- **Priority tier:** Tier 2
+
+---
+**NorthInvest**
+- **Type:** Angel network (not-for-profit)
+- **Location:** Leeds-based; Greater Manchester and Northern England catchment
+- **Stage fit:** Seed to pre-Series A
+- **Cheque / prize size:** Investee tickets from £25,000
+- **Sector fit:** 3/5 — primarily tech-leaning (cyber, fintech, health-tech, media-tech, tech-for-good) but explicitly more flexible than Manchester Angels; will consider service businesses with strong unit economics
+- **Dilution:** Equity (SEIS/EIS expected)
+- **How to approach:** Apply with deck + SEIS Advance Assurance; 1–2 month pitch process if SEIS/EIS, lead in place; otherwise 4-month coaching pathway
+- **Key contact or portal:** northinvest.co.uk; founded by Dr Adam Beaumont
+- **Deadline or cycle:** Rolling
+- **BinRoute fit note:** Reasonable backup if Manchester Angels passes on tech-thesis grounds. The 4-month coaching pathway is genuinely useful for a first-time founder. Apply once SEIS assurance is in place and 50+ houses are signed.
+- **Priority tier:** Tier 2
+
+---
+**Greater Manchester Foundational Economy Innovation Fund (GMCA × GM Business Growth Hub)**
+- **Type:** Grant
+- **Location:** Greater Manchester
+- **Stage fit:** Trading SME trialling a new approach
+- **Cheque / prize size:** Up to £11,000 Phase 1; up to £60,000 Phase 2
+- **Sector fit:** 4/5 — "foundational economy" explicitly includes waste services and essential household services; GM geographic match; previous round awarded 25 projects
+- **Dilution:** Non-dilutive
+- **How to approach:** Application via GMCA / GM Business Growth Hub (bgh@growthco.uk). Frame as trialling route-optimisation tech + landlord-compliance documentation that creates local jobs and improves Article 4 corridor resilience
+- **Key contact or portal:** greatermanchester-ca.gov.uk/what-we-do/economy/foundational-economy-innovation-fund
+- **Deadline or cycle:** Periodic open rounds; verify the next round dates with GM Business Growth Hub directly
+- **BinRoute fit note:** Strong policy fit. Bins are textbook foundational economy. Apply in the next open round — the Phase 1 £11k application is light-touch and the Phase 2 £60k is the cleanest path to a five-figure non-dilutive cheque in Greater Manchester. Requires evidence of job creation or local resilience uplift.
+- **Priority tier:** Tier 2 (apply at next open round)
+
+---
+**Power to Change — Trading for Good (delivered by School for Social Entrepreneurs; Stockport / Bury regional cohort relevant)**
+- **Type:** Match-trading grant + 12-month learning programme
+- **Location:** England; regional cohorts in Bury, Stockport, Milton Keynes, Southwark
+- **Stage fit:** Early community business (trading £0–£15k/year)
+- **Cheque / prize size:** Up to £4,000 (matched £-for-£ against trading income growth) + 11 learning days
+- **Sector fit:** 4/5 — designed for community businesses including environmental community ventures; CIC eligible
+- **Dilution:** Non-dilutive
+- **How to approach:** Online application via SSE for the Bury / Stockport regional variant (the relevant one for a Manchester-based applicant). Apply on the BinHero CIC entity
+- **Key contact or portal:** the-sse.org/programme/trading-for-good-community-business; powertochange.org.uk
+- **Deadline or cycle:** Bury / Stockport cohort had **29 July 2026** application deadline at last published cycle; programme runs Oct 2026 – Oct 2027 (11 learning days). Verify current Stockport / Bury status before applying
+- **BinRoute fit note:** On-fit for BinHero CIC specifically. Small cheque but the 12 months of community-business learning and the SSE network are the real prize. **Status flag:** Power to Change is a time-limited spend-down trust on a 2026 endowment extension; status beyond 2026 is uncertain — apply at the next cohort rather than waiting.
+- **Priority tier:** Tier 2 (BinHero CIC arm only)
+
+---
+**Social Investment Business — Reach Fund + Thrive Together Fund + Community Enterprise Fund**
+- **Type:** Blended grant + loan
+- **Location:** England
+- **Stage fit:** Community organisations at different stages (Reach Fund is pre-investment readiness; CEF is established)
+- **Cheque / prize size:** Reach Fund £5k–£15k (investment-readiness grants); CEF packages up to £25k; Thrive Together Fund £25k–£150k (75% loan / 25% grant)
+- **Sector fit:** 4/5 — CIC-eligible, sector-agnostic across waste, services, community infrastructure
+- **Dilution:** Debt + grant (no equity)
+- **How to approach:** Online application via SIBgroup.org.uk
+- **Key contact or portal:** sibgroup.org.uk/funding
+- **Deadline or cycle:** Rolling for Reach Fund and CEF; verify current fund status before applying
+- **BinRoute fit note:** Reach Fund is the right entry point — £5–15k of investment-readiness grant pays for the BinHero CIC legal incorporation, governance setup, and the impact-measurement framework that Resonance, UnLtd Scaling Up and Esmée Fairbairn will all want to see. Apply for Reach Fund in month 2–3; graduate to Thrive Together Fund in month 12.
+- **Priority tier:** Tier 2 (BinHero CIC arm)
+
+---
+**Tata Varsity Pitch (delivered by Centre for Entrepreneurs)**
+- **Type:** Inter-university pitching competition (UK's longest-running)
+- **Location:** UK national
+- **Stage fit:** Pre-revenue / new business idea; does not require trading or incorporation
+- **Cheque / prize size:** £25,000 total pool — £15k Champion, £2.5k × 2 runners-up, £1k category winners
+- **Sector fit:** 4/5 — sector-agnostic student-founder competition; exposure and Tata alumni network is the meaningful prize
+- **Dilution:** Non-dilutive
+- **How to approach:** Online application via varsitypitch.org
+- **Key contact or portal:** varsitypitch.org; centreforentrepreneurs.org/vp
+- **Deadline or cycle:** Annual cycle; finals during Global Entrepreneurship Week in November; applications typically open mid-year
+- **BinRoute fit note:** Free entry, low-effort, real exposure. The £15k Champion prize is meaningful and the Tata reception + judging panel is a credible warm-intro funnel into the UK angel ecosystem. Apply when the 2026 cycle opens.
+- **Priority tier:** Tier 2
+
+---
+**The Pitch UK (powered by SeedLegals; Manchester regional final at Barclays Eagle Labs)**
+- **Type:** Competition
+- **Location:** UK national; **Manchester regional final** at Barclays Eagle Labs
+- **Stage fit:** Early-stage founders
+- **Cheque / prize size:** £25,000 in founder perks (legal, SeedLegals subscription, software), not cash; trophy + judge exposure
+- **Sector fit:** 3/5 — broad B2B founder competition; in-kind prize but exposure is high
+- **Dilution:** Non-dilutive
+- **How to approach:** Online application via thepitch.uk
+- **Key contact or portal:** thepitch.uk/about-the-pitch-competition/enter-the-pitch
+- **Deadline or cycle:** Annual; applications typically open September for following-year cycle (e.g. apply Sept 2026 for 2027 finals)
+- **BinRoute fit note:** The Manchester regional final makes this geographically efficient. The prize is in-kind, but the SeedLegals / UKBAA judging panel is a high-density warm-intro funnel into the £20–50k angel market. Apply when the next cycle opens.
+- **Priority tier:** Tier 2
+
+---
+**Simply Business Young Entrepreneur Fund (× Hatch Enterprise)**
+- **Type:** Grant
+- **Location:** UK national
+- **Stage fit:** Pre-revenue or trading; aged 18–30
+- **Cheque / prize size:** £5,000 cash × 10 winners (£50,000 total pool)
+- **Sector fit:** 4/5 — age and UK eligibility fit perfectly; 12,000+ applicants in 2025 makes it competitive but the contracted-revenue evidence differentiates BinRoute from idea-only applicants
+- **Dilution:** Non-dilutive
+- **How to approach:** Online entry when 2026 cycle opens
+- **Key contact or portal:** simplybusiness.co.uk/campaign/young-entrepreneur-fund
+- **Deadline or cycle:** Annual; 2025 round closed 9 Oct 2025; 2026 relaunch expected **August–October 2026**. Verify dates in mid-2026
+- **BinRoute fit note:** Worth a polished entry once the 2026 cycle opens. £5k is small but the entry-cost is low and the differentiation evidence (£780/house contracts, Manchester student-market depth) is strong against an ideas-stage applicant pool.
+- **Priority tier:** Tier 2
+
+---
+**Bethnal Green Ventures (BGV) — Tech for Good Programme**
+- **Type:** Accelerator + seed investment
+- **Location:** London-headquartered, national applicants accepted, hybrid programme
+- **Stage fit:** Pre-seed / early-seed
+- **Cheque / prize size:** £60,000 for ~6–7% equity (post-money valuation c. £857k); up to £1m follow-on available
+- **Sector fit:** 3/5 — "tech for good" thesis. Sustainability story fits, but BinRoute is operations-led not tech-led; acceptance rate 3–4%
+- **Dilution:** Equity (~6–7%)
+- **How to approach:** Online application; Spring 2026 cohort closed 4 Jan 2026 (ran from 17 Apr 2026). Watch for autumn/winter 2026 cohort applications, typically reopening May
+- **Key contact or portal:** bethnalgreenventures.com/apply
+- **Deadline or cycle:** Bi-annual cohorts (spring + autumn)
+- **BinRoute fit note:** Apply only if a credible tech roadmap (route optimisation, landlord compliance dashboard, fly-tipping prediction model) is articulated — without it the application fails screening. The £60k for 7% on an £857k post-money is expensive vs. a Manchester operator-angel cheque, so this is a Tier 2 backup not a primary route. The accelerator network is its main value.
+- **Priority tier:** Tier 2
+
+---
+**Conduit Connect (Conduit EIS Impact Fund)**
+- **Type:** Impact angel network + EIS fund
+- **Location:** London (national reach)
+- **Stage fit:** Pre-seed to Series A
+- **Cheque / prize size:** EIS fund typically £25k–£250k tickets; angel members co-invest £5k–£50k cheques
+- **Sector fit:** 4/5 — explicit themes are climate, health, future of work, diversity/inclusion. Climate angle gives the entry
+- **Dilution:** Equity (EIS-eligible)
+- **How to approach:** Apply for the Conduit Connect Dragons pitch competition (run as a UKBAA event); cold application via theconduitconnect.com
+- **Key contact or portal:** theconduitconnect.com
+- **Deadline or cycle:** Pitch events approximately quarterly
+- **BinRoute fit note:** A Conduit Dragons pitch puts BinRoute in front of multiple impact angels in one evening. Apply once Manchester has 50+ houses and the BinHero campaign has visible local press traction. Lead with the dual-brand structure and quantified environmental impact.
+- **Priority tier:** Tier 2
+
+---
+**Angel Investment Network (AIN)**
+- **Type:** Angel network / online platform
+- **Location:** UK HQ, international reach
+- **Stage fit:** Pre-revenue, idea, seed
+- **Cheque / prize size:** Listings raise £20k–£500k typical; AIN claims c. 60% of clients raise "some or all" of target (meaning many do not close in full)
+- **Sector fit:** 3/5 — sector-agnostic; success depends almost entirely on a sharp listing
+- **Dilution:** Equity (terms set by founder)
+- **How to approach:** Online listing; paid tiers from c. £49/month; "Plus" service offers managed outreach
+- **Key contact or portal:** angelinvestmentnetwork.co.uk/entrepreneurs-home
+- **Deadline or cycle:** Rolling
+- **BinRoute fit note:** Useful as a low-effort broad shot for one or two £5–15k angel cheques alongside a primary fundraising track. Do not centre the round on AIN. Lead with B2B contracted revenue (£780/house/year), HMO landlord pipeline, environmental hook. Set up the listing in month 3–4 alongside the active angel outreach.
+- **Priority tier:** Tier 2
+
+---
+**Esmée Fairbairn Foundation — Creative, Confident Communities priority**
+- **Type:** Charitable foundation grant
+- **Location:** UK national
+- **Stage fit:** Established charitable / CIC organisations
+- **Cheque / prize size:** Grants £30k+ for up to three years; £45–50m annual grant pool
+- **Sector fit:** 3/5 — better fit under the Communities priority (community-driven enterprise and regeneration) than under Environment (which is biodiversity-led). Long timelines (3-year grants) suit BinHero campaign scale
+- **Dilution:** Non-dilutive
+- **How to approach:** Online enquiry; pre-application Q&A webinar 3 June 2026
+- **Key contact or portal:** esmeefairbairn.org.uk
+- **Deadline or cycle:** Rolling (no fixed deadlines)
+- **BinRoute fit note:** Apply via BinHero CIC under the Communities priority once the campaign has 6 months of measurable Fallowfield outcomes. Attend the 3 June 2026 webinar before submitting. Long-timeline grants pair well with a multi-year community campaign.
+- **Priority tier:** Tier 2 (BinHero CIC, month 6 onwards)
+
+---
+**GM Business Growth Hub — Spark to Scale + sustainability advisory**
+- **Type:** Public business support + grant signposting + 6-week structured programme
+- **Location:** Greater Manchester
+- **Stage fit:** SME at any stage (pre-revenue included)
+- **Cheque / prize size:** Limited direct grants (e.g. £2.5k international scale-up); primary value is network access, sustainability advisory, and signposting into GMCA / Good Growth Fund
+- **Sector fit:** 4/5 — active sustainability / net-zero mandate; waste reduction and circular economy fit
+- **Dilution:** Non-dilutive (mainly advisory)
+- **How to approach:** Direct registration via Business Growth Hub website; apply to Spark to Scale next cohort
+- **Key contact or portal:** businessgrowthhub.com/programmes/spark-to-scale; next cohort June 2026
+- **Deadline or cycle:** Spark to Scale next cohort June 2026 — verify application window
+- **BinRoute fit note:** Not a primary capital source. The value is the GM public-sector network (GMCA, Good Growth Fund, sustainability advisers, council partnership leads) — particularly for the Article 4 policy positioning. Apply to Spark to Scale and use the 6 weeks to build council and policy relationships that derisk the §14.4 council-relations register entry.
+- **Priority tier:** Tier 2
+
+---
+
+### 17.4 Tier 3 — Background, longer horizon, or repositioning required
+
+These targets are listed honestly because the brief should record what was considered and ruled out for now, with the conditions under which they become realistic. They are not 30-day priorities.
+
+---
+**Manchester Angels**
+- **Type:** Angel network
+- **Sector fit at current shape:** 2/5 — explicitly technology / life sciences focused; BinRoute is a service business
+- **What changes the answer:** Once route-optimisation software and the landlord compliance dashboard are credible products in their own right (Year 2), the network becomes plausible. Founder should attend their pitch events for relationship value now, but not pitch the bin concierge SKU.
+- **Key contact:** David Levine, Principal (LinkedIn: davidjblevine)
+- **Priority tier:** Tier 3 (relationship-building)
+
+---
+**Praetura Ventures (now PXN Group following June 2025 merger with Par Equity)**
+- **Type:** VC / NPIF II equity manager
+- **Sector fit at current shape:** 2/5 — tech and life sciences (AI, gaming, healthtech, cybersecurity); NPIF II equity component sits inside Praetura's filter
+- **What changes the answer:** If BinRoute develops a credible data / SaaS layer (landlord dashboard, route-optimisation product), Praetura becomes a plausible Series A conversation in 2028. Note Laurence (Partner) completed his MPharm at UoM — usable warm-intro vector at the right time
+- **Key contact:** praeturaventures.com (Looking for Funding portal)
+- **Priority tier:** Tier 3
+
+---
+**Future Planet Capital — UK Innovation & Science Seed Fund (UKI2S)**
+- **Type:** Impact VC managing UKI2S on behalf of HM Government
+- **Sector fit at current shape:** 2/5 — UoM Innovation Factory deal flow is dominated by science spinouts (e.g. £3m Cytotrait biotech seed Q1 2026)
+- **What changes the answer:** Future Planet's broader portfolio covers sustainability and impact — relationship-warming via the Innovation Factory commercialisation team is worth doing in any case
+- **Key contact:** Via UoM Innovation Factory referral
+- **Priority tier:** Tier 3
+
+---
+**Bridges Fund Management — Sustainable Growth Fund**
+- **Type:** Impact private equity (growth stage)
+- **Sector fit thematic:** 5/5 — multi-site, low-carbon-aligned essential services is verbatim their thesis
+- **Stage fit current:** Pre-revenue is far below their £2–20m cheque floor
+- **What changes the answer:** A 5+ cities, £2m+ ARR conversation becomes realistic. Track quietly; warm up via Manchester impact events
+- **Key contact:** bridgesfundmanagement.com/sustainable-growth
+- **Priority tier:** Tier 3 (Series B target, 2028–2029)
+
+---
+**Pi Labs**
+- **Type:** Proptech VC (climate-conscious)
+- **Sector fit thematic:** 4/5
+- **Stage fit current:** Cheques USD 500k–1.5m+; only relevant once BinRoute has multi-city traction and is raising £500k+
+- **What changes the answer:** Build the relationship now via Pi Labs events / Insight publications; raise from them at Series A
+- **Key contact:** pilabs.vc
+- **Priority tier:** Tier 3
+
+---
+**Big Issue Invest**
+- **Type:** Social investment lender
+- **Sector fit thematic:** 3/5 — BinHero CIC eligible; KerbCrew Ltd is not (Big Issue does not invest in for-profits)
+- **Stage fit current:** Fund IV requires 2+ years of accounts; flexible loans from £20k start at lower bar
+- **What changes the answer:** Once BinHero has 12 months of trading history, the £20k loan tier becomes accessible
+- **Key contact:** bigissue.com/invest/apply-for-funding
+- **Priority tier:** Tier 3 (BinHero CIC, month 12+)
+
+---
+**Wayra UK (Telefónica / O2)**
+- **Type:** Accelerator + corporate venture
+- **Stage fit current:** Requires working product + use case relevant to O2 / Telefónica
+- **What changes the answer:** If BinRoute builds a connected-device or data layer relevant to Telefónica's smart-city or sustainability narrative, the door opens. Not a current-stage fit
+- **Key contact:** wayra.com
+- **Priority tier:** Tier 3
+
+---
+**Climate-KIC — Built Environment Circular ClimAccelerator**
+- **Type:** EU-origin climate accelerator (UK applicants eligible)
+- **Stage fit current:** "Advanced stage" startups in circular built-environment solutions
+- **What changes the answer:** Once BinRoute has multi-city operations and a circular-economy data narrative (contamination reduction, recyclate recovery, kg per route), this becomes a credible fit
+- **Key contact:** climate-kic.org/open-call/built-environment-circular-climaccelerator
+- **Priority tier:** Tier 3 (Year 2–3)
+
+---
+
+### 17.5 Priority Matrix
+
+The matrix below ranks every Tier 1 and Tier 2 target on a single page. "Effort" is the time cost to produce a credible application; "Probability" is an honest assessment of success at current stage.
+
+| # | Target | Tier | Type | Dilutive? | Cheque / prize | Effort | Probability | Recommended first contact |
+|---|---|---|---|---|---|---|---|---|
+| 1 | UoM SU Small Grant Fund | T1 | Grant | No | £2k | Low | High | Online (this month) |
+| 2 | Manchester Venture Builder (MEC) | T1 | Programme + grant | No | Up to £5k | Low | High | Online when next cycle opens |
+| 3 | Manchester Impact Ventures (MEC) | T1 | Programme + grant | No | Up to £15k | Low | High | Online (BinHero CIC) |
+| 4 | Venture Further Awards (MEC) | T1 | Competition | No | Up to £35k Startup Track (£200k pool) | Med | Med-High | Online (next cycle, autumn 2026) |
+| 5 | Ideas with Impact Awards (UoM) | T1 | Competition | No | Up to £100k (£300k pool) | Med | Low-Med | Online (22 May 2026 deadline) |
+| 6 | UnLtd Awards (Funding Futures + Starting Up) | T1 | Grant + support | No | £8k–£18k | Low | Med-High | Online (1 July 2026 round opens) |
+| 7 | King's Trust Enterprise Programme | T1 | Grant + loan + mentor | No (grant) + debt | £5k grant + £25k loan | Med | High | Online before month 12 of trading |
+| 8 | Shell LiveWIRE Smarter Future | T1 | Competition | No | £5k monthly + £25k annual | Low | Low-Med (each round) | Verify programme status, then online monthly |
+| 9 | Santander X UK Awards | T1 | Competition | No | £50k–£20k of £150k pool | Med | Low-Med | Online (27 May 2026 deadline this cycle) |
+| 10 | GC Angels | T1 | Angel co-investment | Equity | £50k–£150k initial; £250k+ rounds | High | Med | Online + warm intro (month 4–6) |
+| 11 | Resonance — REI Fund | T1 | Impact equity/quasi-equity/debt | Mixed | £25k–£250k | High | Med | EOI online (month 4–6) |
+| 12 | Green Angel Syndicate | T1 | Angel syndicate | Equity | Mid-sized angel cheques | Med | Med | Online application (month 6–9) |
+| 13 | UKBAA Manchester Angel Hub | T1 | Pitch events / gateway | Equity (via members) | £10k–£75k per angel | Low | Med (event-driven) | Attend pitch night (month 1) |
+| 14 | Manchester Student Homes (channel) | T1 | Partnership (not investor) | N/A | N/A | Low | High | Direct outreach (month 1–2) |
+| 15 | William Reeve (Goodlord CEO) | T1 | Operator-angel | Equity | Undisclosed | Med | Low (high bar) | Warm intro only, month 6+ |
+| 16 | NPIF II Smaller Loans (GC Business Finance / FW Capital) | T2 | Debt | No | £25k–£100k | Med | High (with 10+ contracts) | Online (month 4–6) |
+| 17 | NorthInvest | T2 | Angel network | Equity | £25k+ tickets | High | Med | Application + SEIS (month 6+) |
+| 18 | GM Foundational Economy Innovation Fund | T2 | Grant | No | Up to £60k (Phase 2) | Med | Med | Online next open round |
+| 19 | Power to Change — Trading for Good (SSE) | T2 | Match-trading grant + programme | No | Up to £4k + learning | Med | Med | Online (Stockport/Bury cohort) |
+| 20 | Social Investment Business (Reach Fund) | T2 | Grant (investment-readiness) | No | £5k–£15k | Low | Med | Online (BinHero CIC, month 2–3) |
+| 21 | Tata Varsity Pitch | T2 | Competition | No | £15k Champion / £1–2.5k other | Med | Med | Online (mid-2026 when opens) |
+| 22 | The Pitch UK (SeedLegals) | T2 | Competition | No | £25k in-kind perks | Med | Low-Med | Online (Sept 2026 for 2027 cycle) |
+| 23 | Simply Business Young Entrepreneur Fund | T2 | Grant | No | £5k × 10 winners | Low | Low | Online (Aug–Oct 2026 relaunch) |
+| 24 | Bethnal Green Ventures (BGV) | T2 | Accelerator + investment | Equity (~7%) | £60k for ~7% | High | Low (3–4% accept) | Online (autumn 2026 cohort) |
+| 25 | Conduit Connect | T2 | Impact angels + EIS fund | Equity | £5k–£250k | Med | Med | Apply for next Conduit Dragons via UKBAA |
+| 26 | Angel Investment Network (AIN) | T2 | Online listing | Equity | £5k–£15k typical cheques | Low | Low-Med | Paid listing (month 3–4) |
+| 27 | Esmée Fairbairn — Communities | T2 | Foundation grant | No | £30k+ over 3 years | High | Low-Med | Webinar 3 June 2026; apply month 6+ |
+| 28 | GM Business Growth Hub — Spark to Scale | T2 | Programme | No | Network, not cash | Low | High (programme acceptance) | Register + apply to June 2026 cohort |
+
+**Realistic non-dilutive stack — modelled outcome.** A founder who applies to Tier 1 grants and competitions 1–9 in the first 30 days, with a credible pitch, has a defensible expected value of **£15,000–£35,000 of non-dilutive capital landed in months 1–9**, before any angel cheque is taken. That bridges Scenario A (bootstrap) into Scenario B (£20k angel) territory without giving up a single percentage point of equity.
+
+---
+
+### 17.6 Sequencing Recommendation
+
+**The headline recommendation is: bootstrap with a non-dilutive grant stack, then raise an angel cheque from a position of traction — do not raise first.**
+
+The Year 1 plan in §10.1 is structurally bootstrap-survivable. The §16.1 Scenario B £20,000 angel cheque only accelerates the ramp from 18 to 9 months — it does not enable a fundamentally different business. Meanwhile, the non-dilutive stack accessible to a 20-year-old UoM Economics student with the BinHero environmental angle is unusually deep: between MEC programmes, UoM-wide competitions, UnLtd, King's Trust, Shell LiveWIRE, Santander X, and the GM Foundational Economy Innovation Fund, the realistic ceiling on stacked non-dilutive capital over 12 months is £40–80k. That stack is worth more than the §16.1 Scenario B £20k angel cheque on every dimension that matters: cost of capital, founder cap-table protection, signalling effect, and time-to-deploy.
+
+**The case for taking an angel cheque, when:**
+
+1. The angel is a Manchester or property-sector operator whose introductions are worth materially more than the cash (William Reeve is the named example; a Bruntwood-connected angel met at UKBAA Manchester Hub is the more realistic example).
+2. The cheque size is £20–50k and the dilution stays inside the §16.1 Scenario B 15–20% band, with no harsher-than-4×1 vesting, no board control, and no veto rights.
+3. There is a binding decision unlock — e.g. City 2 (Leeds) launching at month 9 instead of month 18 — that the cheque enables and that the non-dilutive stack does not. This is the only scenario in which the equity is actually being exchanged for something the alternative path cannot deliver.
+
+If none of those three conditions is met, decline the cheque and continue stacking grants. There is no urgency to give up equity.
+
+**Milestone-gated approach to the investor list.**
+
+The single most common founder mistake is to send the same pitch to every investor on day one. The right approach is to gate each Tier 2 and Tier 1 angel target to a specific traction milestone, so each pitch lands with a stronger story than the last.
+
+| Founder milestone | Investor targets that unlock |
+|---|---|
+| **Month 1 — incorporation + first agent walk-ins** | UoM SU Small Grant Fund; UKBAA Manchester Hub attendance (no pitch yet); UoM Ideas with Impact deadline (this week); Santander X deadline (11 days) |
+| **Month 2 — first 5 houses signed; BinHero campaign live; press placement underway** | King's Trust Enterprise Programme; Manchester Impact Ventures (when next cycle); Social Investment Business Reach Fund |
+| **Month 3 — first contracts billing via GoCardless; first agent partnership** | UnLtd Awards (1 July 2026 round); Shell LiveWIRE first monthly entry; Manchester Venture Builder application |
+| **Month 4–6 — 50 houses signed; experienced lead operator hired; first MEN press placement** | GC Angels conversation initiated; NPIF II Smaller Loans application; Resonance REI Fund EOI; GM Foundational Economy Innovation Fund application; Conduit Connect Dragons application |
+| **Month 6–9 — 100 houses signed; MSH Trusted Service Partner status; second agent partnership** | Green Angel Syndicate application; AIN listing; NorthInvest application; Esmée Fairbairn webinar (BinHero) |
+| **Month 9–12 — 200+ houses signed; six City-2 triggers met (§11.2); founder transitions from operator to sales** | William Reeve / Goodlord-network warm intro; Manchester Angels relationship (relationship, not pitch); BGV autumn 2026 cohort application |
+| **Month 12–18 — City 2 (Leeds) launched; first multi-city ARR run-rate** | Tata Varsity Pitch entry; The Pitch UK entry; Conduit Connect re-engagement; Praetura Ventures relationship-building (no pitch yet) |
+| **Month 18–24 — 500+ houses across 2 cities; first Fixflo / Goodlord platform conversation** | Bridges Sustainable Growth Fund relationship-building; Pi Labs Series A target conversation; PE relationship initiation |
+
+**What this sequence is designed to do.** It treats fundraising as one workstream inside the §10.1 launch plan, not the launch plan itself. It protects equity through the early stages where dilution is most expensive. It maps each investor target to the founder evidence that target requires. And it explicitly accepts that some investors on this list (Bridges, Pi Labs, Praetura, Manchester Angels) are 18–24 month relationships, not month-one cheques.
+
+---
+
+### 17.7 The Warm Intro Map
+
+The single most reliable predictor of whether an angel takes a meeting is whether the introduction is warm. Cold inbound has a low single-digit conversion rate even for well-pitched founders; warm intros from a credible mutual connection convert at 30–60%. The map below identifies the founder's actionable paths into specific investor relationships.
+
+**A. UoM-linked routes into named investor relationships**
+
+| Target | UoM-linked path | Action |
+|---|---|---|
+| Manchester Angels | UoM Innovation Factory is named as a Research Partner of Manchester Angels. The Innovation Factory commercialisation team can broker introductions for UoM-affiliated founders | Email the Innovation Factory commercialisation team (uominnovationfactory.com); request an introductory call about Manchester Angels deal flow process |
+| Praetura Ventures / PXN Group | Laurence (Partner) completed his MPharm at the University of Manchester. He is a verified UoM alum on Praetura's team page | LinkedIn message referencing the UoM connection — but only at Series A stage, not now |
+| Manchester Venture Builder / MEC mentor network | MEC's mentor and Entrepreneurship Champions network includes 40+ active entrepreneurs and investors providing structured 1-2-1 support to current students | Attend MEC pitch nights and office hours; ask every mentor "who in your network should I be talking to about Manchester property or environmental ventures?" |
+| Alliance MBS Shade Tree Fund | The Shade Tree Fund is a student-run investment fund underwritten by Adam Franks (UoM alum; Chairman, Blue and White Capital) donating £25,000/year for 25 years. Adam Franks is a verified UoM alumnus and active investor (LinkedIn: adam-franks-0131712) | LinkedIn outreach to Adam Franks framed as a UoM-alumnus-to-current-student introduction — note he is a hedge-fund chairman not a traditional angel, so the goal is advice + network, not a cheque |
+| David Levine (Manchester Angels Principal) | Levine is Entrepreneur in Residence at the Enterprise City Accelerator (Applied London / Tech Nation). UoM connection not verified from public sources — but his Manchester Angels role makes him a natural relationship at any UKBAA Manchester Hub pitch night | Attend a Manchester Hub event at No.1 Circle Square; introduce in person, do not LinkedIn-pitch |
+| UKBAA Manchester Angel Hub | The Hub is physically located in Manchester and explicitly attended by local angels who understand property and student-housing markets | Register for the next pitch event; turn up 30 minutes early; bring the §10.5 one-page flyer |
+
+**B. Professional-finance network paths (Aon, Mercer, M&G)**
+
+Honest assessment: **specific named UK angel investors with verified Aon, Mercer or M&G alumni status could not be confirmed from public sources in the research underpinning this brief.** The lack of public traceability is itself useful information — these names exist but are not surface-searchable, which means they have to be discovered via direct LinkedIn first-degree exploration of the founder's own connections.
+
+The founder should treat the Aon / Mercer / M&G network as a **second-degree LinkedIn excavation**, not a Google search. Specifically:
+
+1. **Aon network.** The founder has direct first-degree colleagues from his Aon internship cohort. The most efficient path: LinkedIn-message 3–5 senior Aon colleagues with the message in template D.3 below. Aon UK has a sizeable retirement-and-investment-consulting alumni population, several of whom move into independent advisory or angel investing in their 40s–50s.
+
+2. **Mercer network.** Identical playbook to Aon. Mercer's investment consulting practice in London is a particularly relevant alumni pool — these are people who underwrite institutional capital allocations and frequently angel invest on the side.
+
+3. **M&G Investments.** The founder begins his M&G internship in summer 2026. The internal compliance regime at M&G (and any large asset manager) typically requires personal account dealing pre-clearance; angel investing by staff is not prohibited but is rule-bound. **The founder should not solicit M&G senior staff for personal investment during or immediately after the internship — the optics and compliance risk are real.** What the M&G internship can produce is (a) a credible CV line for every subsequent pitch, (b) a network of fellow-interns who are themselves the next generation of finance professionals, and (c) exposure to M&G's Catalyst team — the in-house impact arm that "drives investment capital to direct opportunities at the growth equity stage to scale innovative businesses tackling social and environmental challenges." Catalyst writes growth-equity cheques, not pre-revenue ones — so the relationship is a 2028 Series A target, not a current round target.
+
+4. **Alpha Kappa Psi (UK).** AKΨ has limited UK chapter presence (it is a US-origin professional business fraternity). Its UK angel-investing pool is small and not concentrated in the founder's target sectors. **Treat AKΨ as a general professional network for warm intros into finance roles, not as an angel-investor pipeline specifically.**
+
+**C. LinkedIn search strings the founder should run this week**
+
+These are designed to surface second-degree connections (i.e. people the founder is one warm intro away from, via a current first-degree connection). Run each search, then for each result, look at the "How you're connected" panel and identify which mutual connection is best-placed to broker an introduction.
+
+1. `"Manchester" AND ("Angel Investor" OR "Angel Investing") AND ("Property" OR "HMO" OR "Landlord" OR "Bruntwood")`
+2. `"Goodlord" AND ("Founder" OR "Director" OR "CEO" OR "Board")` — surfaces Reeve's direct network
+3. `"University of Manchester" AND ("Angel" OR "Investor" OR "Venture Partner")` — surfaces UoM-affiliated investors generally
+4. `"GP Bullhound" AND "Manchester"` — surfaces the Manchester Angels founder network
+5. `"Praetura" OR "Manchester Angels" OR "GC Angels"` AND `Partner OR Principal OR Director` — surfaces every named investor at the three local funds
+6. `("Aon" OR "Mercer" OR "M&G") AND ("Angel" OR "Investor" OR "Director, Investments")` — surfaces the founder's specific past-employer alumni pool with investing in their current role
+7. `"Fallowfield" OR "Withington" AND "Landlord"` — surfaces the actual Manchester student-HMO landlord population (some of whom will themselves be candidate angels for a service that protects their own portfolio)
+8. `"Sustainable Ventures" OR "Bethnal Green Ventures" OR "Conduit Connect" OR "Green Angel Syndicate"` AND `"Partner" OR "Programme Manager"` — surfaces named decision-makers at the impact accelerators in §17.3 and §17.4
+
+For each search the founder should target 5–10 contacts per string, and for each target identify the strongest mutual connection. A first batch of 30–40 second-degree investor contacts is a realistic 90-minute exercise.
+
+**D. Honest limitations**
+
+- Many sector angels in waste management and property management that public sources list as "angels" could **not be verified as currently active** in 2026. The brief explicitly excludes named individuals at Clearabee, Fixflo, Arthur Online, OpenRent and similar firms because their current angel-investing status could not be confirmed from primary sources. The founder should rerun the LinkedIn search strings above before assuming any specific named angel is active.
+- M&G internal compliance for personal account dealing is not public information; the founder should ask his M&G induction contact about the precise rules **before** approaching anyone in the firm about BinRoute.
+- The Manchester Angels and Praetura Ventures founder-team UoM connections noted above are based on public LinkedIn / team-page disclosure as of May 2026; the founder should verify the named individual is still in role before sending a connection request that references the UoM tie.
+
+---
+
+### 17.8 Outreach Templates
+
+The three templates below are written to be sent as drafted, not edited. They are tonally calibrated to the founder's profile (20-year-old, UoM Economics, finance-internship literacy, operational hunger) and to the recipient.
+
+#### Template 1 — Cold email to a Manchester-based angel with a property or environmental background
+
+**Subject:** *15 minutes — Fallowfield bin compliance, £780/house, signed contracts in hand*
+
+> [Name],
+>
+> Manchester City Council issued more fly-tipping fines than any other English authority in 2023/24 — £130,034, up 32% in a year — and approved a nine-year enforcement strategy in February 2026 that commits to harder Fixed Penalty Notices and civil penalties of up to £30,000 per HMO licence breach. The route from a missed bin day to a £50,000 prosecution under the Environmental Protection Act 1990 is no longer theoretical. Manchester Student Homes wrote it up in plain English in February 2025.
+>
+> I'm running KerbCrew — a weekly bin concierge for student HMO landlords, contracted at £15/house/week (£780/year), photo-audited, with the landlord buying documentary evidence not labour. First Fallowfield agent contracts are in. A single 25-house route is gross-margin-£255/week. The national TAM across the top 10 student cities is £30m+ ARR.
+>
+> I'm 20, an Economics undergrad at UoM, did investment consulting at Aon and Mercer, summer at M&G Investments in private markets. This is my first operational venture. I'm not raising a round right now — I'm raising £20k of bridge capital and looking for one angel whose introductions into the Manchester landlord and letting-agent community are worth as much as the cheque.
+>
+> 15 minutes by phone next week? Happy to send a one-pager beforehand — I'd rather you read the page than the deck.
+>
+> [Founder]
+> [phone] · [email] · kerbcrew.co.uk
+
+#### Template 2 — Opening paragraph for a sustainability or impact-focused programme application
+
+> BinHero is a community campaign in Fallowfield, Withington and Rusholme — Manchester's densest student-HMO corridor and one of the worst fly-tipping streets in England by per-capita reporting volume. The campaign converts a 116,000-strong student population into active fly-tip reporters using Manchester City Council's existing public reporting tool, and aggregates the resulting data into monthly community reports placed in *The Mancunion* and *Manchester Evening News*. Every reported incident is a real observation by a real person — the campaign is a megaphone for the council's existing system, never a parallel one. The programme runs as the community arm of KerbCrew Ltd, a weekly bin concierge service contracted by HMO landlords at £15 per house per week. In its first three months the campaign has surfaced [N] additional reports and converted [N] landlords to contracted compliance — closing the loop between civic action and measurable environmental outcome.
+
+#### Template 3 — LinkedIn connection request (300 characters)
+
+> [Name] — Econ at UoM, building a £15/house/week bin concierge for Manchester student HMOs (KerbCrew). Landlord-paid, photo-audited, neutralises £50k EPA 1990 tail risk. First Fallowfield contracts signed. Would value 15 min on the property-services angle — happy to send a one-pager first.
+
+(Character count: 297 of 300. Specific, named city, named statute, named first-traction signal, named ask, named delivery. No generic phrases.)
+
+---
+
+### 17.9 What was deliberately excluded — and why
+
+Investor-list discipline matters as much as investor-list breadth. The following targets were considered and excluded; the founder should not pursue them unless conditions change.
+
+| Excluded | Reason |
+|---|---|
+| Eli & Britt Harari Graphene Enterprise Award (UoM) | Restricted to ventures using graphene / 2D materials; BinRoute does not qualify |
+| Innospace Santander grants (MMU) | MMU-students-only eligibility; UoM founder ineligible for the core grants |
+| Antler London, Entrepreneur First, Zinc VC | Pre-idea cohort builders — founder already has a venture, would have to "give up" KerbCrew to join. Wrong model |
+| Sustainable Ventures accelerator | Requires MVP + customer traction with £150k–£350k cheque size; stage mismatch in 2026 |
+| Octopus Future Generations VCT, Nesta Impact Investments, Bridges Sustainable Growth Fund | All Series A+ cheque sizes; stage mismatch |
+| 24Haymarket, Salica (formerly Hambro Perks) | Requires £1m+ ARR; stage mismatch |
+| Foresight Group NW Regional Fund, Mercia, Round Hill Ventures, Concrete VC, Pi Labs | Series A targets at earliest; not a current-round fit |
+| ClearlySo / Clearly Social Angels | Entered administration late 2021 — not operational |
+| Worth Capital Start-Up Series Fund | Closed to new pitches per public statement on worthcapital.uk |
+| Unilever Foundry / 100+ Accelerator | Corporate partnership programme not equity; CPG-aligned focus, wrong sector |
+| NACUE | Closed; Varsity Pitch now delivered by Centre for Entrepreneurs (included as Tata Varsity Pitch) |
+| Innovate UK Smart Grants | Programme paused since January 2025; replacement pilot not expected until end of 2026 |
+| Crowdcube, Seedrs (Republic Europe) | Crowdfunding round economics break below £100k raised after platform fees and campaign costs |
+| Great British Entrepreneur Awards | Recognition only — no cash prize; useful for CV later, not now |
+| Envestors | Targets revenue-stage scaleups raising £250k+ |
+| SyndicateRoom (Access EIS) | Co-invests only after a Super Angel lead — not approachable directly |
+| Snowball Investing | Fund-of-funds for investors, not a direct startup investor |
+| Lloyds Bank Social Entrepreneurs Programme | Programme wound down; SSE regional programmes are now the active version |
+| Ethical Equity | Low deal volume relative to AIN; not differentiated enough to warrant the founder's time as a primary route |
+| Manchester Angel Hub adjacent funds (Maven, AICAP, Deepbridge) | Either wrong stage (Maven is generally £500k+ cheques into trading businesses) or wrong sector (Deepbridge is biotech-led); not Tier 1 |
+
+The discipline of this exclusion list is the same discipline as §13.1: be honest about which players actually fit BinRoute today, and which are noise.
+
+---
+
+*End of section 17.*
+
+---
+
 *End of document.*
 
 
